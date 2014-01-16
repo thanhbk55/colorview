@@ -1,0 +1,36 @@
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\View Color.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\View Color.pdb
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\AppManifest.xaml
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\View_Color_Debug_AnyCPU.xap
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\System.Windows.Interactivity.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\App.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\About.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\Help.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\MainPage.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\Setting.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\SpalshScreen.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View Color.g.resources
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View_Color.Resources.AppResources.resources
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\ViewColor.csproj.GenerateResource.Cache
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View Color.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View Color.pdb
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\XapCacheFile.xml

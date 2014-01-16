@@ -1,0 +1,19 @@
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\View Color.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\View Color.pdb
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\AppManifest.xaml
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\Bin\Debug\View_Color_Debug_AnyCPU.xap
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\App.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\MainPage.g.cs
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View Color.g.resources
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View_Color.Resources.AppResources.resources
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View Color.csproj.GenerateResource.Cache
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View Color.dll
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\View Color.pdb
+c:\users\thanh\documents\visual studio 2012\Projects\View Color\View Color\obj\Debug\XapCacheFile.xml
